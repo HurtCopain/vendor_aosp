@@ -227,7 +227,6 @@ PRODUCT_PRODUCT_PROPERTIES += \
 # Pixel properties
 PRODUCT_PRODUCT_PROPERTIES += \
     ro.boot.vendor.overlay.theme=com.android.internal.systemui.navbar.gestural;com.google.android.systemui.gxoverlay \
-    ro.com.google.ime.kb_pad_port_b=10 \
     ro.com.google.ime.theme_id=5 \
     ro.setupwizard.enterprise_mode=1 \
     ro.setupwizard.esim_cid_ignore=00000001 \
